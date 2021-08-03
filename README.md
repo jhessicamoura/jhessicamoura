@@ -2,7 +2,6 @@
  
 - 💗 Tenho 24 anos
 - 🌱 Estudando Java
-- 👀 Recém convertida ao mundo dev
 - 😍 Apaixonada por tecnologia
 - 💻 Em busca de iniciar uma nova carreira
 
