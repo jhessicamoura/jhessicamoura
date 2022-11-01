@@ -1,7 +1,7 @@
 ## Olá, eu sou a Jhéssica Moura 🙋‍♀️🤓
  
 - 💗 Tenho 25 anos
-- ☕ Estudando Java
+- ☕ Aprendendo Java
 - 😍 Apaixonada por tecnologia
 - 💻 Em busca de iniciar uma nova carreira
 
