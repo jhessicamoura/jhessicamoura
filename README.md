@@ -2,7 +2,6 @@
  
 - 💗 Tenho 26 anos
 - ☕ Aprendendo Java
-- 😍 Apaixonada por tecnologia
 - 💻 Em busca de iniciar uma nova carreira
 
 ##
